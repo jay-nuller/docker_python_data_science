@@ -5,8 +5,6 @@ This repository created to support https://hands-on.cloud articles:
 * [How to run Jupiter, Keras, Tensorflow and other ML libs in Docker](https://hands-on.cloud/how-to-run-jupiter-keras-tensorflow-pandas-sklearn-and-matplotlib-in-docker-container/)
 * [How to build Anaconda Python Data Science Docker container](https://hands-on.cloud/how-to-build-python-data-science-docker-container-based-on-anaconda/)
 
-[![CircleCI](https://circleci.com/gh/andreivmaksimov/python_data_science.svg?style=svg)](https://circleci.com/gh/andreivmaksimov/python_data_science)
-
 This is fully ready Docker container with:
  - NumPy
  - Pandas
